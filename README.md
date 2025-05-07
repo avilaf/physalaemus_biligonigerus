@@ -1,13 +1,13 @@
 # physalaemus_biligonigerus
 Supporting material from the project "Filogeografía integrativa de Physalaemus biligonigerus (Anura, Leptodactylidae): biogeografía y evolución en los paisajes sudamericanos"
 
-##Here you can find:
+## Here you can find:
 
-##1- Bibliographic review
+## 1- Bibliographic review
 
-##2- R scripts
+## 2- R scripts
 
-##3- Figures
+## 3- Figures
 
 
 
