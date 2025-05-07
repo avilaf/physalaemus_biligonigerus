@@ -17,7 +17,7 @@ Facultad de Ciencias / Instituto de Ecología y Ciencias Ambientales, Laboratori
 
 
 This repository is mantained by Dra. Fernanda Rodigues de Avila.
-Any questions feel free to contact-me by e-mail: fernandar.avila@gmail.com
+Any questions you have, feel free to contact-me by e-mail: fernandar.avila@gmail.com
 
 
 ___
