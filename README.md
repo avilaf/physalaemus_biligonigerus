@@ -6,16 +6,6 @@ Facultad de Ciencias / Instituto de Ecología y Ciencias Ambientales, Laboratori
 (https://herpetologia.fcien.edu.uy/#)
 
 
-## Here you can find:
-
-## 1- Bibliographic review
-
-## 2- R scripts
-
-## 3- Figures
-
-
-
 This repository is mantained by Dra. Fernanda Rodigues de Avila.
 Any questions you have, feel free to contact-me by e-mail: fernandar.avila@gmail.com
 
